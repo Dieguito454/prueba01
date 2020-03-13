@@ -1,0 +1,5 @@
+C:\Users\aminaverry\Desktop\produced MW\PRODUCED MW\Produced\obj\Debug\Produced.vbprojAssemblyReference.cache
+C:\Users\aminaverry\Desktop\produced MW\PRODUCED MW\Produced\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\aminaverry\Desktop\produced MW\PRODUCED MW\Produced\obj\Debug\Produced.vbproj.ResolveComReference.cache
+C:\Users\dtorres26\Desktop\Fuels Data Mart PRODUCED MW\CodigoQueFunciona\PRODUCED MW (1)\PRODUCED MW\Produced\obj\Debug\Produced.vbprojAssemblyReference.cache
+C:\Users\dtorres26\Desktop\Fuels Data Mart PRODUCED MW\CodigoQueFunciona\PRODUCED MW (1)\PRODUCED MW\Produced\obj\Debug\Produced.vbproj.CoreCompileInputs.cache
